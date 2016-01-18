@@ -1,0 +1,15 @@
+{
+  "name": "Talenses",
+  "author": "Inkuba",
+  "version": "0.0.0",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "html5shiv": "~3.7.0",
+    "requirejs-plugins": "~1.0.2",
+    "jquery-validation": "~1.13.0",
+    "Gridlock": "~3.2.1",
+    "js-url": "~2.0.2",
+    "meyer-reset": "*"
+  }
+}

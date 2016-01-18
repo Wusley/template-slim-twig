@@ -1,0 +1,17 @@
+{
+  "name": "ScrollIt",
+  "main": "./scrollIt.js",
+  "dependencies": {
+    "jquery": "~1.10.2"
+  },
+  "homepage": "https://github.com/cmpolis/scrollIt.js",
+  "_release": "636db95d55",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "636db95d555e3ebaa56ce6bb38a20b5c1aa9db17"
+  },
+  "_source": "git://github.com/cmpolis/scrollIt.js.git",
+  "_target": "*",
+  "_originalSource": "ScrollIt.js"
+}

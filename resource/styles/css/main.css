@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  width: 100%;
+  color: red;
+}
+
+#all {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFVBQVU7RUFDVixZQUFZO0VBQ1osV0FBVztDQUhQOztBQU9OO0VBQ0UsZUFBZTtFQUNmLGFBQWE7RUFDYixpQkFBaUI7Q0FIYiIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICBtYXJnaW46IDA7XG4gIHdpZHRoOiAxMDAlO1xuICBjb2xvcjogcmVkO1xuXG59XG5cbiNhbGwge1xuICBkaXNwbGF5OiBibG9jaztcbiAgaGVpZ2h0OiAxMDAlO1xuICBvdmVyZmxvdzogaGlkZGVuO1xufSJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */

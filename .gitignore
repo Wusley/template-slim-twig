@@ -1,0 +1,11 @@
+tmp
+build
+.sass-cache
+.editorconfig
+vendor
+!resource/styles/scss/vendor
+bower_modules
+node_modules
+composer.lock
+composer.phar
+.DS_Store

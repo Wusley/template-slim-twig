@@ -1,0 +1,42 @@
+<!doctype html>
+<!--[if IE 8]>         <html lang="pt" class="fix-ie-9 fix-ie-8"> <![endif]-->
+<!--[if IE 9]>         <html lang="pt" class="fix-ie-9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="pt"> <!--<![endif]-->
+  <head>
+    <title></title>
+
+    {% block meta %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <meta property="og:image" content="" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:site_name" content="" />
+
+    <meta name="theme-color" content="#000000">
+    {% endblock %}
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    {% include 'layouts/components/head.twig' %}
+  </head>
+  <body class="gridlock js-tagging">
+
+    <main id="all">
+
+      {% include 'layouts/components/header.twig' %}
+
+      <section id="content">
+        {% block layout %}{{ layout|raw }}{% endblock layout %}
+      </section>
+
+      {% include 'layouts/components/footer.twig' %}
+    </main>
+
+    {% include 'layouts/components/scripts.twig' %}
+  </body>
+</html>
