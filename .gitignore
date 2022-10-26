@@ -9,3 +9,4 @@ node_modules
 composer.lock
 composer.phar
 .DS_Store
+dist
